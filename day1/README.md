@@ -12,9 +12,11 @@ The design consists of a configurable number of lines. Each line is a sine wave,
 the wave varies according to the luminosity of the pixel at a given point in the photo. The user can
 vary the number of lines, points per line, frequency, amplitude, and line thickness. Here is a screenshot 
 of the interactive UI:
+![image](https://github.com/aldernero/plotparty-june2023/assets/96601789/9b4e2f81-47c7-4734-9de6-304b9663fa7f)
 
 
 ## Results
 
 Overall the resulting details are good enough to represent the photo. However, the portrait is more recognizable
 the farther away you are from it. Here is a photo of a finished plot.
+![20230612_075449](https://github.com/aldernero/plotparty-june2023/assets/96601789/cbce7dc1-bf55-438a-a0bf-05970200681b)
