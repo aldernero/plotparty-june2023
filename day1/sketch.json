@@ -1,0 +1,57 @@
+{
+    "Title": "Plot Party Day 1 - Portrait",
+    "SketchWidth": 1080,
+    "SketchHeight": 1080,
+    "ControlWidth": 240,
+    "Sliders": [
+        {
+            "Name": "N",
+            "MinVal": 1,
+            "MaxVal": 200,
+            "Val": 70,
+            "Incr": 1
+        },
+        {
+            "Name": "points",
+            "MinVal": 100,
+            "MaxVal": 10000,
+            "Val": 2000,
+            "Incr": 100
+        },
+        {
+            "Name": "frequency",
+            "MinVal": 0,
+            "MaxVal": 20,
+            "Val": 2,
+            "Incr": 0.1
+        },
+        {
+        "Name": "amplitude",
+        "MinVal": 0,
+        "MaxVal": 50,
+        "Val": 4,
+        "Incr": 0.1
+        },
+        {
+            "Name": "thickness",
+            "MinVal": 0,
+            "MaxVal": 1,
+            "Val": 0.25,
+            "Incr": 0.05
+        }
+    ],
+    "Toggles": [
+        {
+            "Name": "show photo",
+            "Checked": false
+        },
+        {
+            "Name": "invert",
+            "Checked": false
+        }
+    ],
+    "SketchBackgroundColor": "#1e1e1e",
+    "SketchOutlineColor": "",
+    "ControlBackgroundColor": "#1e1e1e",
+    "ControlOutlineColor": "#ffdb00"
+}
