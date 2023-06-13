@@ -15,6 +15,7 @@ implemented with a [Lindenmayer system](https://en.wikipedia.org/wiki/L-system).
 
 The user can vary the number of generations, line thickness in mm, step size in mm, and starting point
 for the curve. Here is a screenshot of the UI:
+![image](https://github.com/aldernero/plotparty-june2023/assets/96601789/363a86d8-30fc-4e95-8408-6db399025081)
 
 I experimented with 2 colors, dark blue and white, with one color as a sort of "drop shadow". With the
 color of the wood I dediced to go with the dark blue on the bottom, which made the curve look
@@ -27,3 +28,4 @@ also the first time I used paint pens, so I did a couple of test runs with cards
 top of the panel so I could get the right speed and gap above the wood.
 
 Here is a picture of the final result:
+![20230611_205033](https://github.com/aldernero/plotparty-june2023/assets/96601789/ed39b2d1-929d-4739-9c68-3280a89c6669)
