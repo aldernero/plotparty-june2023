@@ -1,0 +1,85 @@
+{
+    "Title": "Plot Party Day 3 - Symmetry",
+    "SketchWidth": 800,
+    "SketchHeight": 800,
+    "ControlWidth": 240,
+    "Sliders": [
+        {
+            "Name": "sides",
+            "MinVal": 3,
+            "MaxVal": 60,
+            "Val": 6,
+            "Incr": 1
+        },
+        {
+            "Name": "depth",
+            "MinVal": 1,
+            "MaxVal": 20,
+            "Val": 5,
+            "Incr": 1
+        },
+        {
+            "Name": "outer skip",
+            "MinVal": 1,
+            "MaxVal": 30,
+            "Val": 2,
+            "Incr": 1
+        },
+        {
+            "Name": "radius",
+            "MinVal": 0,
+            "MaxVal": 0.5,
+            "Val": 0.25,
+            "Incr": 0.01
+        },
+        {
+            "Name": "inner scale",
+            "MinVal": 0,
+            "MaxVal": 2,
+            "Val": 0.9,
+            "Incr": 0.01
+        },
+        {
+            "Name": "inner rotation",
+            "MinVal": 0,
+            "MaxVal": 360,
+            "Val": 0,
+            "Incr": 1
+        },
+        {
+            "Name": "outer scale",
+            "MinVal": 0,
+            "MaxVal": 2,
+            "Val": 0.25,
+            "Incr": 0.01
+        },
+        {
+            "Name": "outer rotation",
+            "MinVal": 0,
+            "MaxVal": 360,
+            "Val": 0,
+            "Incr": 1
+        },
+        {
+            "Name": "thickness",
+            "MinVal": 0.05,
+            "MaxVal": 2,
+            "Val": 0.25,
+            "Incr": 0.05
+        }
+    ],
+    "Toggles": [
+        {
+            "Name": "filled",
+            "Checked": true
+        },
+        {
+            "Name": "button",
+            "IsButton": true
+        }
+    ],
+    "SketchBackgroundColor": "#1e1e1e",
+    "SketchOutlineColor": "",
+    "ControlBackgroundColor": "#1e1e1e",
+    "ControlOutlineColor": "#ffdb00"
+}

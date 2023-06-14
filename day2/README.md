@@ -18,7 +18,7 @@ for the curve. Here is a screenshot of the UI:
 ![image](https://github.com/aldernero/plotparty-june2023/assets/96601789/363a86d8-30fc-4e95-8408-6db399025081)
 
 I experimented with 2 colors, dark blue and white, with one color as a sort of "drop shadow". With the
-color of the wood I dediced to go with the dark blue on the bottom, which made the curve look
+color of the wood I decided to go with the dark blue on the bottom, which made the curve look
 like it's floating on top of the wood.
 
 ## Results
