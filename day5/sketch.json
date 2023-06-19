@@ -1,0 +1,109 @@
+{
+    "Title": "Plot Party Day 6 - Circles",
+    "SketchWidth": 800,
+    "SketchHeight": 800,
+    "ControlWidth": 240,
+    "Sliders": [
+        {
+            "Name": "depth",
+            "MinVal": 0,
+            "MaxVal": 10,
+            "Val": 4,
+            "Incr": 1
+        },
+        {
+            "Name": "initial radius",
+            "MinVal": 0,
+            "MaxVal": 1,
+            "Val": 0.45,
+            "Incr": 0.01
+        },
+        {
+            "Name": "min radius",
+            "MinVal": 0,
+            "MaxVal": 10,
+            "Val": 1.0,
+            "Incr": 0.1
+        },
+        {
+            "Name": "angle 1",
+            "MinVal": 0,
+            "MaxVal": 360,
+            "Val": 0,
+            "Incr": 1
+        },
+        {
+            "Name": "angle 2",
+            "MinVal": 0,
+            "MaxVal": 360,
+            "Val": 120,
+            "Incr": 1
+        },
+        {
+            "Name": "angle 3",
+            "MinVal": 0,
+            "MaxVal": 360,
+            "Val": 240,
+            "Incr": 1
+        },
+        {
+            "Name": "angle diff 1",
+            "MinVal": -180,
+            "MaxVal": 180,
+            "Val": 0,
+            "Incr": 1
+        },
+        {
+            "Name": "angle diff 2",
+            "MinVal": -180,
+            "MaxVal": 180,
+            "Val": 0,
+            "Incr": 1
+        },
+        {
+            "Name": "angle diff 3",
+            "MinVal": -180,
+            "MaxVal": 180,
+            "Val": 0,
+            "Incr": 1
+        },
+        {
+            "Name": "radius scale 1",
+            "MinVal": 0,
+            "MaxVal": 3,
+            "Val": 0.25,
+            "Incr": 0.01
+        },
+        {
+            "Name": "radius scale 2",
+            "MinVal": 0,
+            "MaxVal": 3,
+            "Val": 0.5,
+            "Incr": 0.01
+        },
+        {
+            "Name": "radius scale 3",
+            "MinVal": 0,
+            "MaxVal": 3,
+            "Val": 0.5,
+            "Incr": 0.01
+        },
+        {
+            "Name": "thickness",
+            "MinVal": 0.05,
+            "MaxVal": 2,
+            "Val": 0.25,
+            "Incr": 0.05
+        }
+    ],
+    "Toggles": [
+        {
+            "Name": "fill circles",
+            "Checked": true
+        }
+    ],
+    "SketchBackgroundColor": "#1e1e1e",
+    "SketchOutlineColor": "",
+    "ControlBackgroundColor": "#1e1e1e",
+    "ControlOutlineColor": "#ffdb00"
+}

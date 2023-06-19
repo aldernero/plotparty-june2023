@@ -1,0 +1,114 @@
+{
+    "Title": "Plot Party Day 4 - Water",
+    "SketchWidth": 1000,
+    "SketchHeight": 800,
+    "ControlWidth": 240,
+    "Sliders": [
+        {
+            "Name": "droplets",
+            "MinVal": 0,
+            "MaxVal": 1000,
+            "Val": 200,
+            "Incr": 100,
+            "DrawRect": false
+        },
+        {
+            "Name": "min radius",
+            "MinVal": 1,
+            "MaxVal": 10,
+            "Val": 1.5,
+            "Incr": 0.1,
+            "DrawRect": false
+        },
+        {
+            "Name": "max radius",
+            "MinVal": 1,
+            "MaxVal": 50,
+            "Val": 3.5,
+            "Incr": 0.1,
+            "DrawRect": false
+        },
+        {
+            "Name": "min ratio",
+            "MinVal": 1,
+            "MaxVal": 5,
+            "Val": 1.5,
+            "Incr": 0.01,
+            "DrawRect": false
+        },
+        {
+            "Name": "max ratio",
+            "MinVal": 1,
+            "MaxVal": 10,
+            "Val": 3.0,
+            "Incr": 0.01,
+            "DrawRect": false
+        },
+        {
+            "Name": "octaves",
+            "MinVal": 1,
+            "MaxVal": 10,
+            "Val": 2,
+            "Incr": 1,
+            "DrawRect": false
+        },
+        {
+            "Name": "persistence",
+            "MinVal": 0,
+            "MaxVal": 2,
+            "Val": 0.23,
+            "Incr": 0.01,
+            "DrawRect": false
+        },
+        {
+            "Name": "lacunarity",
+            "MinVal": 0,
+            "MaxVal": 10,
+            "Val": 0.3,
+            "Incr": 0.1,
+            "DrawRect": false
+        },
+        {
+            "Name": "xscale",
+            "MinVal": 0,
+            "MaxVal": 0.1,
+            "Val": 0.005,
+            "Incr": 0.0001,
+            "DrawRect": false
+        },
+        {
+            "Name": "yscale",
+            "MinVal": 0,
+            "MaxVal": 0.1,
+            "Val": 0.005,
+            "Incr": 0.0001,
+            "DrawRect": false
+        }
+    ],
+    "Toggles": [
+        {
+            "Name": "show noise",
+            "Checked": false
+        },
+        {
+            "Name": "show droplets",
+            "Checked": true
+        },
+        {
+            "Name": "fill droplets",
+            "Checked": true
+        },
+        {
+            "Name": "add droplets",
+            "IsButton": true
+        },
+        {
+            "Name": "reset droplets",
+            "IsButton": true
+        }
+    ],
+    "SketchBackgroundColor": "#1e1e1e",
+    "SketchOutlineColor": "",
+    "ControlBackgroundColor": "#1e1e1e",
+    "ControlOutlineColor": "#ffdb00"
+}
