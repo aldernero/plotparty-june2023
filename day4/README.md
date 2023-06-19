@@ -23,6 +23,7 @@ thousands of droplets. You can start over by pressing "reset droplets".
 
 Here is an example of the UI:
 
+![Screenshot_20230618_201435](https://github.com/aldernero/plotparty-june2023/assets/96601789/71a17d28-1225-41b8-99c0-60b24e6b4010)
 
 
 There are three colors of droplets, which are related to their size. **Pen plotter tip:** when using multiple
@@ -34,4 +35,6 @@ add them to a separate layer.
 ## Results
 
 I used 2 shades of blue and one shade of green. Here is an example:
+
+![20230615_102233](https://github.com/aldernero/plotparty-june2023/assets/96601789/6ba747f9-caa2-40a4-a0fd-ee587d071d49)
 
