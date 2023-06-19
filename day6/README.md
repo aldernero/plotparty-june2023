@@ -8,7 +8,7 @@ Description from the plot party website:
 
 ## Design
 
-The design was a combination of the circle design from [day5](../day5/README.md) and the following
+The design was a combination of the circle design from [Day 5](../day5/README.md) and the following
 Desmos trochoid design: https://www.desmos.com/calculator/ucabzcwchx
 
 There was no specific code for this one.
@@ -20,3 +20,5 @@ ended up going with a different design. These made a good background for the pos
 
 I plotted both the front and back of 4x6 cardstock. Here is an example:
 
+![20230617_084402](https://github.com/aldernero/plotparty-june2023/assets/96601789/6af9ae77-9b98-4df3-a93b-6f57cc459202)
+![20230615_223050](https://github.com/aldernero/plotparty-june2023/assets/96601789/65c44cc2-d70a-4254-9266-69baf5589f84)
